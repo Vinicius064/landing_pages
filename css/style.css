@@ -23,6 +23,9 @@ body,html{
     font-family: poppins;
     color: #2c2c2c;
 }
+img{
+    height: auto;
+}
 a{
     text-decoration: none;
     color: #2c2c2c;
@@ -420,6 +423,7 @@ header nav ul li a.selected{
     align-items: center;
 }
 #galeria .imagens .img img{
+    width: auto;
     height: 100%;
     transition: 4s;
 }
