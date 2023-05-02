@@ -287,10 +287,10 @@ header nav ul li a.selected{
     font-weight: 700;
     margin: 0;
 }
-#inicio .img h3 span{
+#inicio .img h2 span{
     font-weight: 800;
 }
-#inicio .img h3 b{
+#inicio .img h2 b{
     white-space: nowrap;
     font-size: 44px;
     font-weight: 700;
