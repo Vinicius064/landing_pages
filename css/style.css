@@ -280,7 +280,7 @@ header nav ul li a.selected{
     position: absolute;
     right: calc(100% - 225px);
 }
-#inicio .img h3{
+#inicio .img h2{
     position: absolute;
     left: 100px;
     color: #fff;
@@ -303,13 +303,16 @@ header nav ul li a.selected{
 #diferenciais .container{
     position: relative;
 }
+#diferenciais h3{
+    margin-bottom: 30px;
+}
 #diferenciais .diferenciais{
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
 #diferenciais .diferenciais .diferencial{
-    padding: 30px;
+    padding: 0 30px;
     display: flex;
     flex-direction: column;
     align-items: center;
