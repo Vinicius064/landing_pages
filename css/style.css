@@ -578,11 +578,11 @@ footer{
         right: calc(100% - 149px);
         width: 100%;
     }
-    #inicio .img h3{
+    #inicio .img h2{
         font-size: 16px;
         left: 76px;
     }
-    #inicio .img h3 b{
+    #inicio .img h2 b{
         font-size: 34px;
     }
     #inicio .col-md-6:last-child{
